@@ -1,0 +1,13 @@
+dog
+Dog
+wolf
+cat
+Cat
+pup
+kitt
+bark
+meow
+lion
+chew
+fur
+treat
